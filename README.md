@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OshanJRodrigo
-- 👀 I’m interested in cybersecurity & programming
-- 🌱 I’m currently learning Bachelor of Science (Cyber Security) at Edith Cowan University
+- 👀 I’m interested in cyber security & programming
+- 🌱 I’m currently pursuing a Bachelor of Computer Science (Cyber Security) degree at Edith Cowan University
       
 <!---
 OshanJRodrigo/OshanJRodrigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
